@@ -1,0 +1,13 @@
+# File temporanei di Code Runner
+tempCodeRunnerFile.py
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Ambienti virtuali
+.venv/
+venv/
+
+# File di sistema macOS
+.DS_Store
