@@ -11,3 +11,6 @@ venv/
 
 # File di sistema macOS
 .DS_Store
+
+
+movimenti.csv
